@@ -9,3 +9,5 @@ if(speed<=120 &&  speed>=90 ) { console.log("Jarima to'lansin");
 }else if (speed<=59 && speed>=40) {console.log("Siz sekin harakatlanyapsiz");  
 } else console.log("Yurmadingiz"); 
 
+var num = 15;
+console.log(Math.ceil(num));
